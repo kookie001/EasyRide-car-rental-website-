@@ -1,4 +1,4 @@
-I will document this project on Dev community - "https://dev.to/luckysingh_"
+Step by step guide blog here- https://dev.to/luckysingh_/easy-ride-building-a-car-rental-web-app-using-aws-cloud-services-i9p
 
 ## The Lambda Function Code
 Here is the code for the Lambda function, originally taken from the [AWS workshop](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/ ), and updated for Node 20.x:
